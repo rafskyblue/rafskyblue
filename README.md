@@ -8,6 +8,14 @@
 <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 </div>
+<h1>Company Project</h1>
+<p align="left">
+  <img width="250" src="https://pigeon.abm-investama.co.id/assets/logo_pigeon-71de3592.png">
+   <img width="100" src="https://pigeon.abm-investama.co.id/assets/abm-24ebcdb4.png">
+    <img width="200" src="https://sango.jp/en/images/common/sango.svg">
+   <img width="250" src="https://www.subang.go.id/frontend/img/logoweb.png">
+</p>
+
 
 
 
