@@ -10,10 +10,9 @@
 </div>
 <h1>Company Project</h1>
 <p align="left">
+   <img width="100" src="https://pigeon.abm-investama.co.id/assets/abm-108fa8c4.png">
   <img width="250" src="https://pigeon.abm-investama.co.id/assets/logo_pigeon-71de3592.png">
-   <img width="100" src="https://pigeon.abm-investama.co.id/assets/abm-24ebcdb4.png">
     <img width="200" src="https://sango.jp/en/images/common/sango.svg">
-   <img width="250" src="https://www.subang.go.id/frontend/img/logoweb.png">
 </p>
 
 
